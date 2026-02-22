@@ -1,0 +1,31 @@
+gender,parental_education,lunch_type,test_prep,score
+male,bachelor,standard,completed,85
+female,master,free/reduced,none,72
+male,high school,standard,completed,90
+female,associate,standard,none,78
+male,some college,free/reduced,completed,68
+female,bachelor,standard,completed,88
+male,high school,free/reduced,none,55
+female,master,standard,completed,95
+male,associate,standard,none,80
+female,some college,free/reduced,none,65
+male,bachelor,standard,completed,87
+female,high school,standard,none,70
+male,master,standard,completed,92
+female,associate,free/reduced,none,60
+male,some college,standard,completed,75
+female,bachelor,standard,none,82
+male,high school,free/reduced,completed,58
+female,master,standard,none,89
+male,associate,standard,completed,83
+female,some college,standard,none,71
+male,bachelor,free/reduced,none,67
+female,high school,standard,completed,76
+male,master,standard,none,91
+female,associate,standard,completed,79
+male,some college,free/reduced,none,62
+female,bachelor,standard,completed,86
+male,high school,standard,none,73
+female,master,free/reduced,completed,84
+male,associate,standard,none,77
+female,some college,standard,completed,69

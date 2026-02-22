@@ -62,16 +62,3 @@ docker build -t karim-streamlit .
 docker tag karim-streamlit registry.heroku.com/karim-streamlit-app/web
 docker push registry.heroku.com/karim-streamlit-app/web
 heroku container:release web -a karim-streamlit-app
-
-
-Variables d'environnement
-
-MCP Backend
-
-MLFLOW_TRACKING_URI : URL du serveur MLflow
-MLFLOW_MODEL_URI : URI du modèle (ex: models:/student_model/latest)
-
-
-Streamlit
-
-MCP_SERVER_URL : URL du serveur MCP
